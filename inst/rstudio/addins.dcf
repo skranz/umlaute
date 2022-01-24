@@ -1,0 +1,4 @@
+Name: Replace Umlaute
+Description: Replace German umlaute in active document
+Binding: replace_umlaute_addin
+Interactive: false
